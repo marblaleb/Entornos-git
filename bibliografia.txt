@@ -1,0 +1,3 @@
+"Ingeniería del Softawre, un enfoque práctico" Ed. MCGraw Hill 1993
+
+"Lenguaje Unificado de Modelado. Manual de referencia" Ed. Addison Wesley 2000
