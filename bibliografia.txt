@@ -1,3 +1,2 @@
-"Ingeniería del Softawre, un enfoque práctico" Ed. MCGraw Hill 1993
-
-"Lenguaje Unificado de Modelado. Manual de referencia" Ed. Addison Wesley 2000
+"Ingeniería del Software, un enfoque práctico" ED MAC GRAW HILL 1993
+"Lenguaje Unificado de Modelado. Manual de referencia" ED ADDISON WESLEY 2000
